@@ -12,7 +12,7 @@ Optimized Grid
 
             minimized traffic weighted zero-load latency
 
-| Grid       | uniform _traffic           | random_traffic  |complement _traffic|
+| Optimize Algorithm      | uniform _traffic           | random_traffic  |complement _traffic|
 | ------------- |:-------------:| -----:|-----:|
 | Original mesh      | 8596.112898349664 | 10855.716749642652 |2513.2339481947247|
 | Simulated Annealing algorithm      | 4283.280548990766     | 7711.38961102337 |1151.425702472076|
