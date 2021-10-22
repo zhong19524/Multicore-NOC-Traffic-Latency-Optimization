@@ -7,7 +7,8 @@ STAGE for 64 cores NOC
 # Sample computed weighted latency of 8x8 Cores NOC
 Mesh Grid
 ![image](https://user-images.githubusercontent.com/50343656/124329998-c8a0a980-db49-11eb-8201-be2d996cd7b5.png)
-Optimized Grid
+
+Sample Optimized Grid
 ![image](https://user-images.githubusercontent.com/50343656/124330020-d5bd9880-db49-11eb-81eb-4ee938899bb7.png)
 
             minimized traffic weighted zero-load latency
